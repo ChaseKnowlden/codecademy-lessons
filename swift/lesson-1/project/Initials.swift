@@ -1,0 +1,16 @@
+// I want to build a React and an iOS App
+print(" CCC ")
+print("C   C")
+print("C")
+print("C")
+print("C")
+print("C   C")
+print(" CCC")
+
+print("K   K")
+print("K  K")
+print("K K")
+print("KK")
+print("K K")
+print("K  K")
+print("K   K")
